@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Đá quý An An – chuyên trang phong thủy đá quý
 
-You can use the [editor on GitHub](https://github.com/daquyanan/daquyanan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Đá quý An An](https://daquyanan.com/) chuyên cung cấp các mặt hàng đá quý, đá phong thủy tự nhiên 100% không qua xử lý, hiện tại chúng tôi có những vật phẩm phong thủy: vòng tay phong thủy, vòng tay thạch anh tóc (vàng, xanh, đỏ, tím), thạch anh khói, vòng tay đá thạch anh trắng ưu linh, vòng tay mã não, mặt đá phong thủy (phật bản mệnh, hồ ly, quan công, tỳ hưu), bi cầu, tháp văn xương, cùng những vật phẩm phong thủy khác.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Vật phẩm phong thủy - Đá quý An An](https://daquyanan.com/wp-content/uploads/2019/07/nh-tại-xưởng-Đá-Quý-An-An-6-e1564327085718.jpg)
 
-### Markdown
+## Tại sao nên sử dụng vật phẩm phong thủy?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Đá phong thủy với tác dụng mạnh trong việc thay đổi tài vận, đem lại may mắn và sức khỏe, công danh, tình duyên và tài lộc,… cho người đeo. Vật phẩm phong thủy phù hợp với mệnh của người đeo giúp tăng vượng khí, việc làm ăn thuận buồm xuôi gió, càng ngày càng phát đạt, tinh lực và sức khỏe dồi dào, tình duyên như ý, gia đình ấm êm… Tùy loại đá cũng như màu sắc của nó sẽ mang lại tác dụng riêng đáng kể. Quý khách có thể tham khảo thêm về _**Xem màu sắc hợp mệnh**_ theo ngày tháng năm sinh tại công cụ **[Xem phong thủy](https://phongthuy.daquyanan.com/)** của chúng tôi.
 
-```markdown
-Syntax highlighted code block
+Các sản phẩm phong thủy cũng rất phong phú, đa dạng về mẫu mã cũng như các mức giá phù hợp. Ai cũng có thể dễ dàng tìm được món đồ ưng ý cho chính mình. Các món đồ từ đá tự nhiên đẹp, độc, lạ tại Đá quý An An chắc chắn sẽ giúp người mua cảm thấy hài lòng.
 
-# Header 1
-## Header 2
-### Header 3
+## Đá quý An An – địa chỉ cung cấp đá phong thủy uy tín
 
-- Bulleted
-- List
+*   Đá quý An An cam kết cung cấp đá tự nhiên 100%. Tại Đá quý An An, chúng tôi không bán đá nhân tạo, bột đá ép… bởi vì những loại vật phẩm này không có giá trị nhiều về năng lượng phong thủy.
+*   DaquyAnAn.com cam đoan mỗi sản phẩm bán ra đều nói đúng chủng loại đá và cam kết chất lượng.
+*   Hình ảnh sản phẩm trên Website đều là ảnh thật của sản phẩm do chúng tôi chụp.
+*   Quý khách hàng được tư vấn hoàn toàn miễn phí về phong thủy, các mẫu mã đá, cũng như cách chọn đá, chọn màu phù hợp. Dù bạn không lựa chọn sản phẩm của chúng tôi, cũng đừng ngại liên lạc để chúng tôi tại Hotline **0983 124 407** hoặc Email: **info@daquyanan.com** để giải đáp những thắc mắc của bạn.
 
-1. Numbered
-2. List
+## Cam kết của Đá quý An An
 
-**Bold** and _Italic_ and `Code` text
+*   Chúng tôi cam kết mang lại sản phẩm chất lượng cao với giá tốt nhất đến với khách hàng
+*   Khách hàng là thượng đế, luôn đặt yêu cầu của khách hàng lên đầu
+*   Dịch vụ hậu mãi chuyên nghiệp, tận tình
+*   Đảm bảo về giá, giá vật phẩm phong thủy tại Đá quý An An luôn luôn là giá hợp lý.
+*   Đúng chất lượng : Bạn sẽ được đảm bảo về chất lượng hàng hoá bằng Hợp đồng có ghi rõ **nguồn gốc xuất xứ** sản phẩm và **đúng tính năng** kỹ thuật sản phẩm.
+*   Phục vụ tận tình, chúng tôi luôn xem khách hàng là người thân, luôn nỗ lực để khách hàng cảm thấy hài lòng nhất.
 
-[Link](url) and ![Image](src)
-```
+Mọi ý kiến phản hồi xin vui lòng gửi về hòm thư: info@daquyanan.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Thông tin liên hệ
 
-### Jekyll Themes
+_**Địa chỉ**_: 27 Võ Chí Công, Xuân La, Tây Hồ, Hà Nội
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daquyanan/daquyanan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_**Hotline**_: **0983 124 407 (Mr Tài)**
 
-### Support or Contact
+_**Email**_: [info@daquyanan.com](mailto:info@daquyanan.com)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_**Website**_: [https://daquyanan.com/](https://daquyanan.com/)
+
+_**Fanpage**_: [https://www.facebook.com/Daquy.AnAnn/](https://www.facebook.com/Daquy.AnAnn/)
